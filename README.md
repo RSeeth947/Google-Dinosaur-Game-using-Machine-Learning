@@ -1,1 +1,1 @@
-# Google-Dinosaur-Game-using-Machine-Learning
+# Dinosaur Game AI
