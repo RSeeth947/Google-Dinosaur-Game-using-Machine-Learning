@@ -1,4 +1,4 @@
-#Work in Progress
+
 
 import sys, os, pygame, random, neat
 
